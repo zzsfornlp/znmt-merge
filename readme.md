@@ -2,8 +2,6 @@
 
 Hi, this is an implementation of the paper "Exploring Recombination for Efficient Decoding of Neural Machine Translation".
 
-* Details will be released later.
-
 ## Usage
 
 ### Train:
